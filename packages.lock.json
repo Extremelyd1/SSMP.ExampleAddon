@@ -30,6 +30,12 @@
         "resolved": "1.1.0-silksong1.0.28891",
         "contentHash": "IplYreERpZ2m1zGFdfQYvzfjeJJ5KSTs7aVIdGhN0XjREfx4J3oq+vGmFBiH84ISxxKIggFu9ab2N0AMGl5xCA=="
       },
+      "Silksong.SSMP": {
+        "type": "Direct",
+        "requested": "(, )",
+        "resolved": "0.0.5",
+        "contentHash": "Y0vEhl95rJxhTYeujxHDO2HyNxw09KxzcqFlSmOCDGetQgG7szjny/NHNRmJEUC/ssCbHnJMgdMi2c/diPcgRQ=="
+      },
       "UnityEngine.Modules": {
         "type": "Direct",
         "requested": "[6000.0.50, )",
